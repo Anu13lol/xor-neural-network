@@ -29,6 +29,9 @@ gcc -m64 -shared -o nn_lib.dll nn_lib.c -lm
 python nn.py
 ```
 
+## Loss Curve
+![Loss Curve](loss_curve.png)
+
 ## Results
 ```
 Training for 20000 epochs...
@@ -48,5 +51,5 @@ Final predictions:
   [0, 1] -> 0.990  (target: 1)
   [1, 0] -> 0.991  (target: 1)
   [1, 1] -> 0.009  (target: 0)
-  
+
 ```

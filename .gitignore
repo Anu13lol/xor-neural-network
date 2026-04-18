@@ -7,6 +7,3 @@ nn
 # Python cache
 __pycache__/
 *.pyc
-
-# Loss curve output
-loss_curve.png
