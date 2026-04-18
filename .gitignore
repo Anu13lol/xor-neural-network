@@ -1,0 +1,12 @@
+# Compiled binaries
+nn_lib.dll
+nn_lib.so
+nn.exe
+nn
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Loss curve output
+loss_curve.png
